@@ -1,0 +1,83 @@
+[
+  {
+    "siteType": "Многостраничные сайты",
+    "avatar": "yunona.png",
+    "link": "https://stepan881.github.io/yunona/index.html",
+    "git": "https://github.com/Stepan881/yunona",
+    "name": "yunona",
+    "description": "yunona - Турагентство. Выполнена верстка js (jq)",
+    "size": "all"
+  },
+  {
+    "siteType": "Lending page",
+    "avatar": "profibankrot.png",
+    "link": "https://stepan881.github.io/profibankrot/app/index.html",
+    "git": "https://github.com/Stepan881/profibankrot",
+    "name": "profibankrot",
+    "description": "profibankrot - Лендинг, Адаптивная верскта и js ",
+    "size": "all"
+  },
+  {
+    "siteType": "Многостраничные сайты",
+    "avatar": "MedicalBusiness.png",
+    "link": "https://stepan881.github.io/MedicalBusiness/",
+    "git": "https://github.com/Stepan881/MedicalBusiness",
+    "name": "Ремез",
+    "description": "Ремез - сайт компании, верстка и Js",
+    "size": "all"
+  },
+  {
+    "siteType": "Одностраничные сайты",
+    "avatar": "Miushi.png",
+    "link": "https://stepan881.github.io/Miushi/app/",
+    "git": "https://github.com/Stepan881/Miushi",
+    "name": "Miushi",
+    "description": "Miushi Магазин суши, Адаптивная верскта главной страницы магазина, ",
+    "size": "all"
+  },
+  {
+    "siteType": "Многостраничные сайты",
+    "avatar": "mishka.png",
+    "link": "https://stepan881.github.io/Mishka/build/",
+    "git": "https://github.com/Stepan881/Mishka",
+    "name": "Мишка",
+    "description": "Мишка - магазин игрушек! Адаптивная верстка! Есть 2 страницы с каталогом и формой ",
+    "size": "all"
+  },
+  {
+    "siteType": "Lending page",
+    "avatar": "Relax.png",
+    "link": "https://stepan881.github.io/diplom_insein/",
+    "git": "https://github.com/Stepan881/diplom_insein",
+    "name": "Relax Live",
+    "description": "Relax Live Лендинг сайта по ремонту. Готовая верстка, выполнен только JS",
+    "size": "all"
+  },
+  {
+    "siteType": "Одностраничные сайты",
+    "avatar": "Keksobooking.png",
+    "link": "https://stepan881.github.io/Keksobooking/",
+    "git": "https://github.com/Stepan881/Keksobooking",
+    "name": "Keksobooking",
+    "description": "Сайт по размещению и поиска жилья! выполнен только JS",
+    "size": "all"
+  },
+  {
+    "siteType": "Многостраничные сайты",
+    "avatar": "Device.png",
+    "link": "https://stepan881.github.io/device/",
+    "git": "https://github.com/Stepan881/device",
+    "name": "Device",
+    "description": "Device - Магазин техники! Верска для десктопа, есть страница с формой ",
+    "size": "all"
+  },
+  {
+    "siteType": "Многостраничные сайты",
+    "avatar": "Седона.png",
+    "link": "https://stepan881.github.io/Sedona/",
+    "git": "https://github.com/Stepan881/Sedona",
+    "name": "Седона",
+    "description": "Седона — Поиск жилья! Есть страница с формой! Верстка для десктопа",
+    "size": "all"
+  }
+]

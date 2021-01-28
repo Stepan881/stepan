@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="ru" prefix="og: http://ogp.me/ns#">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&family=Ubuntu:wght@400;700&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="./css/style.min.css">
+  <title>Степан - верстальщик сайтов</title>
+</head>
+
+<body>
+
+  <header class="header">
+    <div class="header__wrapper container">
+      <a class="header__logo-link" href="./index.html">
+        <img class="header__logo" src="./img/logo.jpg" alt="Логотип">
+      </a>
+  </header>
+
+  <main class="main">
+    <section class="about" id="about">
+      <div class="about__wrapper container">
+        <div class="about__content">
+          <h1 class="visually-hidden">Колчин Степан верстка сайтов</h1>
+          <span class="about__head">Колчин Степан</span>
+          <p class="about__profession">Мастер по созданию сайтов</p>
+          <ul class="about__list">
+            <li class="about__item">Landing page</li>
+            <li class="about__item">Одностраничные сайты</li>
+            <li class="about__item">Многостраничные сайты</li>
+            <li class="about__item">Верстка сайтов по макетам</li>
+          </ul>
+          <a class="about__btn" href="./index.html#portfolio">Посмотреть портфолио</a>
+        </div>
+        <a class="about__arrow-bottom" href="./index.html#portfolio"></a>
+      </div>
+    </section>
+
+    <section class="portfolio" id="portfolio">
+      <div class="portfolio__wrapper container">
+        <h2 class="portfolio__head heading">Портфолио</h2>
+        <nav class="portfolio__nav">
+          <ul class="portfolio__list">
+            <li class="portfolio__item"><a class="portfolio__link portfolio__link--active" href="#">Все</a></li>
+            <li class="portfolio__item"><a class="portfolio__link" href="#">Lending page</a></li>
+            <li class="portfolio__item"><a class="portfolio__link" href="#">Одностраничные сайты</a></li>
+            <li class="portfolio__item"><a class="portfolio__link" href="#">Многостраничные сайты</a></li>
+          </ul>
+        </nav>
+        <div class="portfolio__card-wrapper">
+          <!-- cards -->
+        </div>
+        <div class="about">
+          <button class="about__btn">Развернуть все</button>
+        </div>
+      </div>
+    </section>
+
+    <section class='info'>
+      <div class="info__wrapper container">
+        <h2 class="info__header heading">Верстаю сайты с использованием:</h2>
+        <ul class="info__list">
+          <li class="info__item">
+            <p>Html5</p>
+          </li>
+          <li class="info__item">
+            <p>Scss</p>
+          </li>
+          <li class="info__item">
+            <p>JavaScripr</p>
+          </li>
+          <li class="info__item">
+            <p>БЭМ</p>
+          </li>
+          <li class="info__item">
+            <p>Gulp</p>
+          </li>
+        </ul>
+
+        <div class="info__content">
+          <p class="info__text">Адаптивные, кроссбраузерные.</p>
+          <p class="info__text">Есть опыт в командной работе. GitHub GitLab.</p>
+          <p class="info__text">Хорошие знания JS</p>
+          <p class="info__text">Основы React, PHP</p>
+          <p class="info__text">Отличное знание Photoshop и других редакторов (avacode figma)</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer__wrapper container">
+      <h2 class="footer__header heading">Связатся со мной:</h2>
+      <ul class="footer__list">
+        <li class="footer__item">
+          <a href="mailto:stepanstepanov@gmail.com" class="footer__link">
+            <span class="visually-hidden">Email</span>
+            <img class="footer__icon" src="./img/mail.svg" alt="Email">
+          </a>
+        </li>
+        <li class="footer__item">
+          <a href="https://telegram.me/stepan1950" class="footer__link">
+            <span class="visually-hidden">Telegram</span>
+            <img class="footer__icon" src="./img/telegram.svg" alt="Telegram">
+          </a>
+        </li>
+        <li class="footer__item">
+          <a href="skype:stepanstepanov180" class="footer__link">
+            <span class="visually-hidden">Skype</span>
+            <img class="footer__icon" src="./img/skype.svg" alt="Skype">
+          </a>
+        </li>
+      </ul>
+    </div>
+  </footer>
+
+  <section class="card-popup">
+    <div class="card-popup__overlay">
+      <div class="card-popup__wrapper">
+        <a class="card-popup__close" href="#"></a>
+        <div class="card-popup__wrapper-btn">
+          <a class="card-popup__btn" data-scale="link" href="#" target="_blank">Открыть в новой вкладке</a>
+          <a class="card-popup__btn" data-scale="-1" href="#">Мобила</a>
+          <a class="card-popup__btn" data-scale="0" href="#">Планшет</a>
+          <a class="card-popup__btn" data-scale="1" href="#">Компьютер</a>
+          <a class="card-popup__btn" data-scale="2" href="#">100%</a>
+        </div>
+        <div class="card-popup__iframe-wrapper content">
+          <iframe class="card-popup__iframe" src="#" name="iframe" scrolling="auto"></iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script src="./js/main.min.js"></script>
+</body>
+
+</html>
