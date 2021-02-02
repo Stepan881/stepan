@@ -307,6 +307,34 @@ template {
 [hidden] {
   display: none; }
 
+@font-face {
+  font-family: "Josefin Sans";
+  font-display: swap;
+  src: url("../fonts/JosefinSans-Regular.woff") format("woff"), url("../fonts/JosefinSans-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Josefin Sans";
+  font-display: swap;
+  src: url("../fonts/JosefinSans-Bold.woff") format("woff"), url("../fonts/JosefinSans-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Ubuntu";
+  font-display: swap;
+  src: url("../fonts/Ubuntu-Regular.woff") format("woff"), url("../fonts/Ubuntu-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal; }
+
+@font-face {
+  font-family: "Ubuntu";
+  font-display: swap;
+  src: url("../fonts/Ubuntu-Bold.woff") format("woff"), url("../fonts/Ubuntu-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal; }
+
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box; }
@@ -358,7 +386,8 @@ h1, h2, h3, p {
 ul, li {
   margin: 0;
   padding: 0;
-  list-style-type: none; }
+  list-style-type: none;
+  font-family: 'Ubuntu', sans-serif; }
 
 button {
   cursor: pointer;
