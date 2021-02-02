@@ -19,9 +19,9 @@
   },
   {
     "siteType": "Многостраничные сайты",
-    "avatar": "MedicalBusiness.png",
-    "link": "https://stepan881.github.io/MedicalBusiness/",
-    "git": "https://github.com/Stepan881/MedicalBusiness",
+    "avatar": "prip.png",
+    "link": "https://stepan881.github.io/prip/",
+    "git": "https://github.com/Stepan881/prip",
     "name": "Ремез",
     "description": "Ремез - сайт компании, верстка и Js",
     "size": "all"
@@ -36,21 +36,48 @@
     "size": "all"
   },
   {
-    "siteType": "Многостраничные сайты",
-    "avatar": "mishka.png",
-    "link": "https://stepan881.github.io/Mishka/build/",
-    "git": "https://github.com/Stepan881/Mishka",
-    "name": "Мишка",
-    "description": "Мишка - магазин игрушек! Адаптивная верстка! Есть 2 страницы с каталогом и формой ",
-    "size": "all"
-  },
-  {
     "siteType": "Lending page",
     "avatar": "Relax.png",
     "link": "https://stepan881.github.io/diplom_insein/",
     "git": "https://github.com/Stepan881/diplom_insein",
     "name": "Relax Live",
     "description": "Relax Live Лендинг сайта по ремонту. Готовая верстка, выполнен только JS",
+    "size": "all"
+  },
+{
+  "siteType": "Тестовые задания",
+  "avatar": "great-gonzo-agency.png",
+  "link": "https://stepan881.github.io/great-gonzo-agency/app/index.html",
+  "git": "https://github.com/Stepan881/great-gonzo-agency",
+  "name": "Great Gonzo agency",
+  "description": "Тестовое задание для Great Gonzo agency",
+  "size": "all"
+},
+{
+  "siteType": "Тестовые задания",
+  "avatar": "BrLab.png",
+  "link": "https://stepan881.github.io/BrLab-test/app/index.html",
+  "git": "https://github.com/Stepan881/BrLab-test",
+  "name": "BrLab",
+  "description": "Тестовое задание для BrLab",
+  "size": "all"
+},
+{
+  "siteType": "Тестовые задания",
+  "avatar": "top3dGroup.png",
+  "link": "https://stepan881.github.io/top3dGroup/app/index.html",
+  "git": "https://github.com/Stepan881/top3dGroup",
+  "name": "top3dGroup",
+  "description": "Тестовое задание для top3dGroup",
+  "size": "all"
+},
+  {
+    "siteType": "Многостраничные сайты",
+    "avatar": "mishka.png",
+    "link": "https://stepan881.github.io/Mishka/build/",
+    "git": "https://github.com/Stepan881/Mishka",
+    "name": "Мишка",
+    "description": "Мишка - магазин игрушек! Адаптивная верстка! Есть 2 страницы с каталогом и формой ",
     "size": "all"
   },
   {

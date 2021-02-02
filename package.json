@@ -22,8 +22,6 @@
     "gulp-uglify": "^3.0.2"
   },
   "scripts": {
-    "test": "npm run editorconfig && npm run stylelint",
-    "build": "gulp build",
     "start": "gulp start"
   },
   "browserslist": [
