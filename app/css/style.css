@@ -435,7 +435,7 @@ img {
 
 .about {
   position: relative;
-  background: wheat url(./../img/bg-head.jpg) center left no-repeat;
+  background: wheat url(./../img/bg-head.jpeg) center left no-repeat;
   background-size: cover;
   z-index: 0; }
   .about__wrapper {
