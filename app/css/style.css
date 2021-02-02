@@ -849,6 +849,9 @@ img {
     transition: 0.3s;
     opacity: 0.5; }
 
+.footer__icon {
+  height: 100%; }
+
 .card-popup {
   position: fixed;
   z-index: 10;
