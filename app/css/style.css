@@ -622,12 +622,20 @@ img {
       cursor: default; }
   .portfolio__card-wrapper {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     -webkit-column-gap: 10px;
        -moz-column-gap: 10px;
             column-gap: 10px;
     row-gap: 15px;
     padding: 20px 0 20px 0; }
+
+@media (max-width: 1440px) {
+  .portfolio__card-wrapper {
+    grid-template-columns: repeat(3, 1fr); } }
+
+@media (max-width: 1000px) {
+  .portfolio__card-wrapper {
+    grid-template-columns: repeat(2, 1fr); } }
 
 @media (max-width: 768px) {
   .portfolio__card-wrapper {
@@ -636,6 +644,7 @@ img {
 .card {
   width: 100%;
   min-height: 300px;
+  height: 300px;
   overflow: hidden;
   border-radius: 15px;
   -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
