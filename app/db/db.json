@@ -9,7 +9,7 @@
     "size": "all"
   },
   {
-    "siteType": "Lending page",
+    "siteType": "Одностраничные сайты",
     "avatar": "profibankrot.jpeg",
     "link": "https://stepan881.github.io/profibankrot/app/index.html",
     "git": "https://github.com/Stepan881/profibankrot",
@@ -36,7 +36,7 @@
     "size": "all"
   },
   {
-    "siteType": "Lending page",
+    "siteType": "Одностраничные сайты",
     "avatar": "Relax.jpeg",
     "link": "https://stepan881.github.io/diplom_insein/",
     "git": "https://github.com/Stepan881/diplom_insein",
@@ -45,7 +45,7 @@
     "size": "all"
   },
 {
-  "siteType": "Тестовые задания",
+  "siteType": "Одностраничные сайты",
   "avatar": "great-gonzo-agency.jpeg",
   "link": "https://stepan881.github.io/great-gonzo-agency/app/index.html",
   "git": "https://github.com/Stepan881/great-gonzo-agency",
@@ -54,7 +54,7 @@
   "size": "all"
 },
 {
-  "siteType": "Тестовые задания",
+  "siteType": "Одностраничные сайты",
   "avatar": "BrLab.jpeg",
   "link": "https://stepan881.github.io/BrLab-test/app/index.html",
   "git": "https://github.com/Stepan881/BrLab-test",
@@ -63,7 +63,7 @@
   "size": "all"
 },
 {
-  "siteType": "Тестовые задания",
+  "siteType": "Одностраничные сайты",
   "avatar": "top3dGroup.jpeg",
   "link": "https://stepan881.github.io/top3dGroup/app/index.html",
   "git": "https://github.com/Stepan881/top3dGroup",
