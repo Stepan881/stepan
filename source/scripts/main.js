@@ -7,7 +7,10 @@ const cardTemplate = (card) => {
     <article class="card">         
       <div class="card__wrapper">
         <h3 class="card__head">${card.name} </h3>
-        <img class="card__front-img" src="./img/${card.avatar}" alt="${card.name}">
+          <picture>
+            <source type="image/webp" srcset="./img/${card.avatar}.webp">
+            <img class="card__front-img" src="./img/${card.avatar}.jpeg" alt="${card.name}">
+          </picture>
           <div class="card__back-content">
             <p class="card__description">${card.description} </p>
             <a class="card__btn" href="${card.link}" target="_blank">Открыть</a>
