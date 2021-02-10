@@ -434,10 +434,15 @@ img {
     border-radius: 50%; }
 
 .about {
-  position: relative;
-  background: wheat url(./../img/bg-head.jpeg) center left no-repeat;
-  background-size: cover;
-  z-index: 0; }
+  position: relative; }
+  .about__bg {
+    position: absolute;
+    -o-object-position: center;
+       object-position: center;
+    -o-object-fit: cover;
+       object-fit: cover;
+    z-index: -1;
+    height: 100vh; }
   .about__wrapper {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -552,7 +557,8 @@ img {
     margin-top: 10px; }
   .about__content {
     padding: 0;
-    background: none; }
+    margin: 0 -20px;
+    padding: 20px; }
   .about__list {
     font-size: 18px;
     line-height: 24px;
@@ -564,7 +570,16 @@ img {
     bottom: 10vh; }
   .about__btn {
     font-weight: 400;
-    border-width: 1px; }
+    border-width: 1px;
+    padding: 10px 0;
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center; }
     .about__btn:hover {
       border-width: 1px; } }
 
