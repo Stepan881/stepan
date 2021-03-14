@@ -1,10 +1,28 @@
 [
   {
     "siteType": "Многостраничные сайты",
+    "avatar": "Rodionov-stone",
+    "link": "https://stepan881.github.io/Rodionov-stone/dist/index.html",
+    "git": "https://github.com/Stepan881/Rodionov-stone",
+    "name": "Родионов камень",
+    "description": "Regera - Cтроительная компания",
+    "size": "all"
+  },
+  {
+    "siteType": "Многостраничные сайты",
+    "avatar": "Regera",
+    "link": "https://stepan881.github.io/Regera/dist/index.html",
+    "git": "https://github.com/Stepan881/Regera",
+    "name": "Regera",
+    "description": "Regera - Современные дома для спокойной жизни",
+    "size": "all"
+  },
+  {
+    "siteType": "Многостраничные сайты",
     "avatar": "yunona",
     "link": "https://stepan881.github.io/yunona/index.html",
     "git": "https://github.com/Stepan881/yunona",
-    "name": "yunona",
+    "name": "Yunona",
     "description": "yunona - Турагентство. Выполнена верстка js (jq)",
     "size": "all"
   },
@@ -13,7 +31,7 @@
     "avatar": "profibankrot",
     "link": "https://stepan881.github.io/profibankrot/app/index.html",
     "git": "https://github.com/Stepan881/profibankrot",
-    "name": "profibankrot",
+    "name": "Profibankrot",
     "description": "profibankrot - Лендинг, Адаптивная верскта и js ",
     "size": "all"
   },
@@ -78,6 +96,33 @@
     "git": "https://github.com/Stepan881/Sedona",
     "name": "Седона",
     "description": "Седона — Поиск жилья! Есть страница с формой! Верстка для десктопа",
+    "size": "all"
+  },
+  {
+    "siteType": "Одностраничные сайты",
+    "avatar": "great-gonzo-agency",
+    "link": "https://stepan881.github.io/great-gonzo-agency/app/index.html",
+    "git": "https://github.com/Stepan881/great-gonzo-agency",
+    "name": "Great Gonzo agency",
+    "description": "Тестовое задание для Great Gonzo agency",
+    "size": "all"
+  },
+  {
+    "siteType": "Одностраничные сайты",
+    "avatar": "BrLab",
+    "link": "https://stepan881.github.io/BrLab-test/app/index.html",
+    "git": "https://github.com/Stepan881/BrLab-test",
+    "name": "BrLab",
+    "description": "Тестовое задание для BrLab",
+    "size": "all"
+  },
+  {
+    "siteType": "Одностраничные сайты",
+    "avatar": "top3dGroup",
+    "link": "https://stepan881.github.io/top3dGroup/app/index.html",
+    "git": "https://github.com/Stepan881/top3dGroup",
+    "name": "top3dGroup",
+    "description": "Тестовое задание для top3dGroup",
     "size": "all"
   }
 ]
