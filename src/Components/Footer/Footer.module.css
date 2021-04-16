@@ -1,0 +1,32 @@
+.footerWrapper {
+   padding-top: 50px;
+   padding-bottom: 50px;
+ }
+
+.footerList {
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   margin: 20px 0;
+ }
+
+.footerItem {
+   margin: 10px;
+   display: flex;
+   max-width: 50px;
+ }
+
+.footerLink {
+  display: flex;
+  margin: 0 auto;
+
+  transition: 0.3s;
+}
+.footerLink:hover {
+   transition: 0.3s;
+   opacity: 0.5;
+}
+
+.footerIcon {
+   height: 100%;
+ }
