@@ -1,36 +1,46 @@
 const Cards = [
   {
-    id: 1,
+    id: 14,
+    siteType: "onePage",
+    avatar: "Weather-site",
+    link: "https://stepan881.github.io/Weather-site/build/index.html",
+    git: "https://github.com/Stepan881/Weather-site",
+    name: "Weather-site",
+    description: "Выполнена верстка и Js. Использовались Scss Бем Bootstrap. Был подключен APi. Выполнен за 3 дня",
+    size: "all"
+  },
+  {
+    id: 14,
     siteType: "multiPage",
     avatar: "Rodionov-stone",
     link: "https://stepan881.github.io/Rodionov-stone/dist/index.html",
     git: "https://github.com/Stepan881/Rodionov-stone",
     name: "Родионов камень",
-    description: "Выполнена верстка и Js. Сайт сверстан под Wordpress. Использовались Scss Бем Bootstrap. 11 страниц. Выполнен за 6 дней",
+    description: "Выполнена верстка и Js. Сайт сверстан для Wordpress. Использовались Scss Бем Bootstrap. 11 страниц. Выполнен за 6 дней",
     size: "all"
   },
   {
-    id: 2,
+    id: 13,
     siteType: "multiPage",
     avatar: "Regera",
     link: "https://stepan881.github.io/Regera/dist/index.html",
     git: "https://github.com/Stepan881/Regera",
     name: "Regera",
-    description: "Выполнена верстка и Js. Сайт сверстан под Wordpress. Использовались Scss Бем. 10 страниц. Выполнен за 5 дней",
+    description: "Выполнена верстка и Js. Сайт сверстан для Wordpress. Использовались Scss Бем. 10 страниц. Выполнен за 5 дней",
     size: "all"
   },
   {
-    id: 3,
+    id: 12,
     siteType: "multiPage",
     avatar: "yunona",
     link: "https://stepan881.github.io/yunona/index.html",
     git: "https://github.com/Stepan881/yunona",
     name: "Yunona",
-    description: "Выполнена верстка и Js(Jq). Сайт сверстан под Wordpress. Использовались Scss Бем. 9 страниц. Выполнен за 5 дней",
+    description: "Выполнена верстка и Js(Jq). Сайт сверстан для Wordpress. Использовались Scss Бем. 9 страниц. Выполнен за 5 дней",
     size: "all"
   },
   {
-    id: 4,
+    id: 11,
     siteType: "onePage",
     avatar: "profibankrot",
     link: "https://stepan881.github.io/profibankrot/app/index.html",
@@ -40,17 +50,17 @@ const Cards = [
     size: "all"
   },
   {
-    id: 5,
+    id: 10,
     siteType: "multiPage",
     avatar: "prip",
     link: "https://stepan881.github.io/prip/",
     git: "https://github.com/Stepan881/prip",
     name: "Ремез",
-    description: "Выполнена верстка и Js. Сайт сверстан под Wordpress. Использовались Scss Бем. +25 страниц. Выполнен за 9 дней",
+    description: "Выполнена верстка и Js. Сайт сверстан для Wordpress. Использовались Scss Бем. +25 страниц. Выполнен за 9 дней",
     size: "all"
   },
   {
-    id: 6,
+    id: 9,
     siteType: "onePage",
     avatar: "Miushi",
     link: "https://stepan881.github.io/Miushi/app/",
@@ -60,7 +70,7 @@ const Cards = [
     size: "all"
   },
   {
-    id: 7,
+    id: 8,
     siteType: "onePage",
     avatar: "Relax",
     link: "https://stepan881.github.io/diplom_insein/",
@@ -70,7 +80,7 @@ const Cards = [
     size: "all"
   },
   {
-    id: 8,
+    id: 7,
     siteType: "multiPage",
     avatar: "mishka",
     link: "https://stepan881.github.io/Mishka/build/",
@@ -80,7 +90,7 @@ const Cards = [
     size: "all"
   },
   {
-    id: 9,
+    id: 6,
     siteType: "onePage",
     avatar: "Keksobooking",
     link: "https://stepan881.github.io/Keksobooking/",
@@ -90,7 +100,7 @@ const Cards = [
     size: "all"
   },
   {
-    id: 10,
+    id: 5,
     siteType: "multiPage",
     avatar: "Device",
     link: "https://stepan881.github.io/device/",
@@ -100,7 +110,7 @@ const Cards = [
     size: "all"
   },
   {
-    id: 11,
+    id: 4,
     siteType: "multiPage",
     avatar: "sedona",
     link: "https://stepan881.github.io/Sedona/",
@@ -110,7 +120,7 @@ const Cards = [
     size: "all"
   },
   {
-    id: 12,
+    id: 3,
     siteType: "onePage",
     avatar: "great-gonzo-agency",
     link: "https://stepan881.github.io/great-gonzo-agency/app/index.html",
@@ -120,7 +130,7 @@ const Cards = [
     size: "all"
   },
   {
-    id: 13,
+    id: 2,
     siteType: "onePage",
     avatar: "BrLab",
     link: "https://stepan881.github.io/BrLab-test/app/index.html",
@@ -130,7 +140,7 @@ const Cards = [
     size: "all"
   },
   {
-    id: 14,
+    id: 1,
     siteType: "onePage",
     avatar: "top3dGroup",
     link: "https://stepan881.github.io/top3dGroup/app/index.html",

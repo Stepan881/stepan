@@ -72,7 +72,7 @@ const Header = () => {
           <p>Меню</p>
           <ul className={s.navList}>
             <li>
-              В разработке :(
+              <a href="#!">В разработке :)</a>
             </li>
 
           </ul>
