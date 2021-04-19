@@ -8,15 +8,17 @@
   object-fit: cover;
   z-index: -1;
   height: 100vh;
+  min-height: 500px;
 }
 
 .aboutWrapper {
   display: flex;
+  flex-direction: column;
   justify-content: space-around;
   flex-wrap: wrap;
   width: 100%;
   align-items: center;
-  min-height: 450px;
+  min-height: 500px;
   height: 100vh;
 }
 
@@ -85,7 +87,7 @@
 }
 
 .aboutArrowBottom {
-  position: absolute;
+  position: relative;
   bottom: 30px;
   width: 40px;
   height: 40px;
@@ -94,6 +96,7 @@
   border: none;
   transition: 0.3s;
   cursor: pointer;
+  z-index: 2;
 }
 
 .aboutArrowBottom::before {

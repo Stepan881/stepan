@@ -40,6 +40,11 @@
   opacity: 0.7;
 }
 
+.burger svg{
+    width: 40px;
+    height: 40px;
+}
+
 .nav {
   position: fixed;
   top: 0;
@@ -72,6 +77,11 @@
 }
 .burgerClose:hover {
   opacity: 0.7;
+}
+
+.burgerClose svg{
+    width: 40px;
+    height: 40px;
 }
 
 .overlay {
