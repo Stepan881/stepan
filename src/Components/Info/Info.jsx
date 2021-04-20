@@ -17,7 +17,7 @@ const Info = () => {
               <p>Scss</p>
             </li>
             <li className={s.infoItem}>
-              <p>JavaScripr</p>
+              <p>JavaScript</p>
             </li>
             <li className={s.infoItem}>
               <p>БЭМ</p>
