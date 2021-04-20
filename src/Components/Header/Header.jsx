@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import s from './Header.module.css';
-import logoWebp from './img/logo.webp';
+import logoWebP from './img/logo.webp';
 import logoJpeg from './img/logo.jpeg';
 
 const headerWrapper = `${s.headerWrapper} container`;
@@ -26,7 +26,7 @@ const Header = () => {
       <div className={headerWrapper}>
         <a className={s.headerLogoLink} href="./index.html" aria-label="Логотип">
           <picture>
-            <source type="image/webp" srcSet={logoWebp}/>
+            <source type="image/webp" srcSet={logoWebP}/>
             <img className={s.headerLogo} src={logoJpeg} alt="Логотип"/>
           </picture>
         </a>
@@ -74,7 +74,6 @@ const Header = () => {
             <li>
               <a href="#!">В разработке :)</a>
             </li>
-
           </ul>
         </nav>
 

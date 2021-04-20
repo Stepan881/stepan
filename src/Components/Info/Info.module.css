@@ -15,12 +15,12 @@
  }
 
 .infoList {
-   margin: 20px 0;
-   width: 30%;
+   margin: 20px auto;
+   width: 300px;
 }
 
 .infoContent {
-   padding-left: 30px;
+   padding: 0 30px;
    width: 50%;
    margin: 20px 0;
 }
@@ -55,6 +55,6 @@
     padding: 0;
   }
   .infoList {
-    width: 100%;
+
   }
 }
