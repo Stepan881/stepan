@@ -15,7 +15,7 @@ const About = () => {
       <div className="container">
         <div className={s.aboutWrapper}>
           <div className={s.aboutContent}>
-            <h1 className="visually-hidden">Колчин Степан верстка сайтов</h1>
+            <h1 className="visually-hidden">Колчин Степан Создание сайтов</h1>
             <span className={s.aboutHead}>Колчин Степан</span>
             <p className={s.aboutProfession}>Frontend разработчик</p>
             <ul className={s.aboutList}>

@@ -25,6 +25,10 @@ const Info = () => {
             <li className={s.infoItem}>
               <p>Gulp</p>
             </li>
+            <li className={s.infoItem}>
+              <p>React</p>
+            </li>
+
           </ul>
 
           <div className={s.infoContent}>
